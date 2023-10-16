@@ -3,5 +3,5 @@ Memprediksi produksi enery surya menggunakan LSTM (long short-term memory) untuk
 
 Team 5 RB Project: 
 - Muhammad Dafha Syahrizal
-- Akbar Fadillah Irsyad
+- Akbar Fadhillah Irsyad Usman
 - Quenna Aurora 
