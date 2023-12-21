@@ -9,7 +9,7 @@
 + [Deployment on Streamlit](#deploy)
 + [Technologies Used](#tech)
 + [Team](#team)
-+ 
+
 <a id="demo"></a><h2>Demo</h2>
 
 ### Interface
@@ -77,4 +77,3 @@ dan the National Renewable Energy Laboratory (NREL). Dataset ini merupakan produ
 **Muhammad Dafha Syahrizal**
 **Akbar Fadillah Irsyad**
 **Quenna Aurora Batubara**
-
