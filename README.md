@@ -73,7 +73,7 @@ dan the National Renewable Energy Laboratory (NREL). Dataset ini merupakan produ
  **TensorFlow** | Library deep learning yang digunakan untuk membangun dan melatih model neural network.
  **Streamlit** | Framework untuk membuat antarmuka web aplikasi dengan cepat.
 
-<a id="team"></a><h2>Team RB</h2>
+<a id="team"></a><h2>Team 5 RB</h2>
 + **Muhammad Dafha Syahrizal - 120450050**
 + **Akbar Fadillah Irsyad - 120450026**
 + **Queena Aurora Batubara - 120450062**
