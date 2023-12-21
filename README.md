@@ -33,8 +33,8 @@ Ini adalah aplikasi web yang dibangun dengan menggunakan konsep **Prediksi Produ
 
 Seluruh project dikerjakan menggunakan python di google colab.
 
-### Proyek Berfungsi
-Pengerjaan proyek ini dibagi menjadi 4 langkah
+### Project
+Pengerjaan project ini dibagi menjadi 4 langkah
 
 + **Mengambil Data**
   + Dataset didapatkan dari website Mendeley Data, dibuat oleh California Independent System Opreator (CAISO) 
@@ -74,6 +74,6 @@ dan the National Renewable Energy Laboratory (NREL). Dataset ini merupakan produ
  **Streamlit** | Framework untuk membuat antarmuka web aplikasi dengan cepat.
 
 <a id="team"></a><h2>Team</h2>
-**Muhammad Dafha Syahrizal**
-**Akbar Fadillah Irsyad**
-**Quenna Aurora Batubara**
++ **Muhammad Dafha Syahrizal**
++ **Akbar Fadillah Irsyad**
++ **Quenna Aurora Batubara**
