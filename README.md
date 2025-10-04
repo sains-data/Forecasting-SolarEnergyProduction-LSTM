@@ -74,6 +74,6 @@ dan the National Renewable Energy Laboratory (NREL). Dataset ini merupakan produ
  **Streamlit** | Framework untuk membuat antarmuka web aplikasi dengan cepat.
 
 <a id="team"></a><h2>Team 5 RB</h2>
-+ **Muhammad Dafha Syahrizal - 120450050**
-+ **Akbar Fadillah Irsyad - 120450026**
-+ **Queena Aurora Batubara - 120450062**
++ **Muhammad Dafha Syahrizal 
++ **Akbar Fadillah Irsyad
++ **Queena Aurora Batubara
